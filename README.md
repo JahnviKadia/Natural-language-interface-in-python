@@ -1,10 +1,10 @@
 # Natural-language-interface-in-python
 ### I have build a natural language interface in Python that will provide inputs to your electives advisory system developed in Prolog.
 
-## Tool used is :
+## Tools Used are:
 ### SWI - Prolog
 ### VSC 
 
-## Language Used
+## Languages Used are:
 ### Prolog
 ### Python
