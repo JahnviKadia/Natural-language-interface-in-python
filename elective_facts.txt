@@ -1,0 +1,4 @@
+
+ career_in(cv,_,_,_,_,_).
+
+ pre_in(linear_algebra,_,_).
