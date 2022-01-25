@@ -1,7 +1,7 @@
 % electvies advisory system
 
 suggest(Elective) :-
-      consult("C:/Users/kadia/Assignment 5/elective_facts.txt"),
+      consult("elective_facts.txt"),
       career(C,C1,C2,C3,C4,C5),
       pre(P,P1,P2),
       elective(Elective, P, P1, P2, C, C1, C2,C3,C4,C5, Intern, Marks, RP, Pro),
